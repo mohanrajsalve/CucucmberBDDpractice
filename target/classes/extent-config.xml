@@ -1,0 +1,9 @@
+<configuration>
+    <reportName>Extent Report</reportName>
+    <theme>standard</theme>
+    <encoding>utf-8</encoding>
+    <protocol>https</protocol>
+    <documentTitle>Test Report</documentTitle>
+    <reportHeadline>Test Execution Report</reportHeadline>
+    <enableTimeline>true</enableTimeline>
+</configuration>
